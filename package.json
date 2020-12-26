@@ -1,0 +1,21 @@
+{
+  "name": "portfolio_website",
+  "version": "1.0.0",
+  "description": "blah",
+  "main": "blah",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "blah"
+  },
+  "keywords": [
+    "blah"
+  ],
+  "author": "Vladislav Zakharov",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
